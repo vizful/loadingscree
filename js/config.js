@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "nM2rKk-x0h0", name: "Star Wars - The Clone Wars Suite (Theme)"},
+	{youtube: "https://www.youtube.com/watch?v=oZ3iZNA-NwY", name: "Star Wars - The Clone Wars Suite (Theme)"},
 	{youtube: "", name: ""},
 ];
 
