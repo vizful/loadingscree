@@ -89,8 +89,8 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "dmNHzS6iQtw", name: "Cenum - Sidious"},
-	{youtube: "FJcOdy0ibtI", name: "Star Wars Dubstep - Darthstep Phrazer"},
+	{youtube: "https://www.youtube.com/watch?v=nM2rKk-x0h0", name: "Star Wars - The Clone Wars Suite (Theme)"},
+	{youtube: "", name: ""},
 ];
 
 /*Random music order?*/
