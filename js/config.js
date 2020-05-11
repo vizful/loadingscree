@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "Cheekz Squad Clone Wars RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=oZ3iZNA-NwY", name: "Star Wars - Republic Clone Army March Complete Music Theme | Remastered |"},
+	{youtube: "oZ3iZNA-NwY", name: "Star Wars - Republic Clone Army March Complete Music Theme | Remastered |"},
 	{youtube: "", name: ""},
 ];
 
