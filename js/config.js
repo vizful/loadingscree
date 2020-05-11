@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "NeonRP Network";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -105,7 +105,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Thanks For Choosing NeonRP Networks",
+	"Thanks For Choosing Cheekz Squad Clonewars RP",
 	"Thanks for joining us!",
 	"you can apply for staff after 50 hours of playtime on the server",
 	"be Respectful to Staff!"
